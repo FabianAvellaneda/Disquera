@@ -1,0 +1,6 @@
+model\CancionVo.class
+model\conexion.class
+model\GeneroDao.class
+model\CancionDao.class
+controller\Genero.class
+model\GeneroVo.class
